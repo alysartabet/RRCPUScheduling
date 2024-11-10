@@ -203,8 +203,26 @@ Context Switches: 6
 
 ## Screenshots
 ### RR Scheduling:
+![rrquantum_1](screenshots/rrquantum_1.png)
+
+![rrquantum_2](screenshots/rrquantum_2.png)
+
+![rrquantum_3](screenshots/rrquantum_3.png)
+
+![rrquantum_4](screenshots/rrquantum_4.png)
+
+![rrquantum_5](screenshots/rrquantum_5.png)
 
 ### PRR Scheduling: 
+![prrquantum_1](screenshots/prrquantum_1.png)
+
+![prrquantum_2](screenshots/prrquantum_2.png)
+
+![prrquantum_3](screenshots/prrquantum_3.png)
+
+![prrquantum_4](screenshots/prrquantum_4.png)
+
+![prrquantum_5](screenshots/prrquantum_5.png)
 
 ## Analysis of Results
 **CPU Utilization:**\
