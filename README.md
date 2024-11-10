@@ -1,4 +1,5 @@
 # Round Robin CPU Scheduling
+![proj_logo](proj_image/cpuschedulerlogo.png)
 ## About
 This Java-based simulator is a program that models the Round Robin CPU scheduling algorithm, a fundamental concept in operating systems. By reading process data from a CSV file and applying a user-defined time quantum, the simulator provides insights into various performance metrics.
 
@@ -27,11 +28,16 @@ RRCPUScheduling/
 │   └── rrprocess.csv
 │
 ├── screenshots/
-│   ├── timequantum_1.png
-│   ├── timequantum_2.png
-│   ├── timequantum_3.png
-│   ├── timequantum_4.png
-│   └── timequantum_5.png
+│   ├── rrquantum_1.png
+│   ├── rrquantum_2.png
+│   ├── rrquantum_3.png
+│   ├── rrquantum_4.png
+│   ├── rrquantum_5.png
+│   ├── prrquantum_1.png
+│   ├── prrquantum_2.png
+│   ├── prrquantum_3.png
+│   ├── prrquantum_4.png
+│   └── prrquantum_5.png
 │
 ├── proj_image/
 │   └── cpuschedulerlogo.png
